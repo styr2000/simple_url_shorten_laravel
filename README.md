@@ -19,7 +19,7 @@ This project uses Tailwind CSS, including the `preline` component for handling t
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/yowitscarl/simple_url_shorten_laravel.git`
-2. Install dependencies: `composer install && npm install && npm run dev`
+2. Install dependencies: `composer install`
 3. Set up your environment variables in `.env` file.
 4. Run migrations: `php artisan migrate`
 
